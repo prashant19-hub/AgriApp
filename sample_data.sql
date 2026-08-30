@@ -13,3 +13,7 @@ INSERT INTO schedules (farmer_name, crop_name, land_area, task, date, status) VA
 ('Ramesh Yadav', 'Wheat', '2 Acre', 'Seeding', '2026-09-02', 'Pending'),
 ('Suresh Pal', 'Rice', '3 Acre', 'Fertilizer Spray', '2026-09-05', 'Completed')
 ON CONFLICT (id) DO NOTHING;
+
+
+
+
