@@ -43,6 +43,7 @@ type PageData struct {
 	Products  []Product
 	Sales     []Sale
 	Schedules []Schedule
+	Date     string
 }
 
 var (
