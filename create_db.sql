@@ -5,3 +5,6 @@ CREATE DATABASE agriapp;
 
 -- Optional: after creating the DB, reconnect to agriapp and run the app.
 -- The app itself will also create the tables automatically on startup.
+
+
+//db.sql
