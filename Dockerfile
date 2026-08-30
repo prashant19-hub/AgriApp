@@ -18,3 +18,5 @@ COPY --from=builder /app/template /app/template
 EXPOSE 8080
 
 CMD ["/app/app"]
+
+//Dockerfile
