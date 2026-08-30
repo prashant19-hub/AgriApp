@@ -6,7 +6,7 @@ $password = 'postgres'
 $host = 'localhost'
 $port = '5432'
 
-Write-Host "Creating PostgreSQL database '$database' if it does not exist..."
+Write-Host "Creating PostgreSQL database '$database' if it does not exist"
 
 $env:PGPASSWORD = $password
 
