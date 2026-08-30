@@ -26,3 +26,5 @@ func TestTemplatePath(t *testing.T) {
 		t.Fatalf("unexpected template path: got %q want suffix %q", got, wantSuffix)
 	}
 }
+
+//test
