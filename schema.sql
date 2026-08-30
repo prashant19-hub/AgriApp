@@ -24,3 +24,5 @@ CREATE TABLE IF NOT EXISTS schedules (
     date TEXT,
     status TEXT
 );
+
+//sql
